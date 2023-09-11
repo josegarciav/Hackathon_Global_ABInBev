@@ -42,5 +42,6 @@ The project's Jupyter notebooks and scripts can be used to:
 
 Please refer to the individual notebook documentation for detailed usage instructions.
 
-Acknowledgments
+### Acknowledgments
+
 We would like to thank the organizers of the global competition and the open-source community for their valuable contributions and support.
